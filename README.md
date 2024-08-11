@@ -2,7 +2,7 @@
 # Book Charm (E-Commerce Web Application)
 
 # Introduction
-Welcome to BookCharm, an e-commerce web application developed by our team during our journey at CDAC. BookCharm aims to provide users with a seamless shopping experience, offering a wide range of products in Books categories.
+Welcome to BookCharm, an e-commerce web application developed by our team during our journey at Masters. BookCharm aims to provide users with a seamless shopping experience, offering a wide range of products in Books categories.
 
 The project is divided into two main services, each serving a distinct purpose:
 
@@ -37,7 +37,7 @@ download project using git clone
   
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/MaratheHarshad/e-commerce
+git clone https://github.com/Harishbherde/e-commerce
 
 ```
     
